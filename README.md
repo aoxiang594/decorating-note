@@ -28,6 +28,9 @@
   * 书房
 * 电器
   * [油烟机](electrical/油烟机.md)
+  * [厨房电器](electrical/厨房电器.md)
+  * [洗衣机](electrical/洗衣机.md)
+  * [扫地机器人](electrical/扫地机器人.md)
 * Tip
 
 ## 需求
